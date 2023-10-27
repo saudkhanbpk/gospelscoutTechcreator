@@ -1,0 +1,13 @@
+#event-container {
+	border-radius:15px; 
+	border: solid 1px rgba(149,73,173,1);
+	background-image: linear-gradient(rgba(255,255,255,.3), rgba(255,255,255,.6));
+	max-width: 500px;
+}
+
+#ad-placement {
+	background-image: url("../../img/gospelBrunchFlyer_ig3.jpg"); /* The image used - old: male_trumpet_web2*/
+	background-position: center; /* Center the image */
+	background-repeat: no-repeat; /* Do not repeat the image */
+	background-size: cover; /* Resize the background image to cover the entire container */
+}

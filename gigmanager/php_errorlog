@@ -1,0 +1,13 @@
+[15-Jul-2021 20:49:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/gigmanager/index.php(5): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[19-Oct-2021 19:48:00 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/gigmanager/index.php on line 29 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:482
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/gigmanager/index.php(29): pdoQuery('eventartists', Array, Array, 'eventdate', NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 482
+[23-Oct-2021 15:54:10 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/customer/www/gospelscout.com/public_html/gigmanager/index.php on line 59

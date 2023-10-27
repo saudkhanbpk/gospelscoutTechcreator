@@ -1,0 +1,12 @@
+[10-May-2016 12:54:23 Etc/GMT] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/studiq1k/public_html/'http://localhost/gospelscout/common/functions.php on line 204
+[10-May-2016 12:54:30 Etc/GMT] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/studiq1k/public_html/'http://localhost/gospelscout/common/functions.php on line 204
+[02-Jul-2016 08:12:40 Etc/GMT] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/videos?part=statistics&amp;id=hqepb5hzuB0&amp;key={AIzaSyBSi0Rj3Q74r6WfzLyqeNSOMyan5cmubPM}): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/studiq1k/public_html/'http://localhost/gospelscout/youtube.php on line 45
+[02-Jul-2016 08:23:40 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/studiq1k/public_html/'http://localhost/gospelscout/youtube.php on line 6
+[02-Jul-2016 08:23:40 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/studiq1k/public_html/'http://localhost/gospelscout/youtube.php on line 6
+[02-Jul-2016 08:23:40 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/studiq1k/public_html/'http://localhost/gospelscout/youtube.php on line 6
+[02-Jul-2016 08:38:50 Etc/GMT] PHP Notice:  Undefined property: stdClass::$viewCount in /home/studiq1k/public_html/'http://localhost/gospelscout/youtube.php on line 5
+[02-Jul-2016 08:40:57 Etc/GMT] PHP Notice:  Undefined property: stdClass::$title in /home/studiq1k/public_html/'http://localhost/gospelscout/youtube.php on line 6
+[02-Jul-2016 13:18:13 Etc/GMT] PHP Notice:  Undefined property: stdClass::$title in /home/studiq1k/public_html/'http://localhost/gospelscout/youtube.php on line 6
+[02-Jul-2016 13:19:37 Etc/GMT] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/studiq1k/public_html/'http://localhost/gospelscout/youtube.php on line 5
+[02-Jul-2016 13:23:02 Etc/GMT] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/studiq1k/public_html/'http://localhost/gospelscout/youtube.php on line 5

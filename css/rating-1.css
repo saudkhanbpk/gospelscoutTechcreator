@@ -1,0 +1,19 @@
+.codexworld_rating_widget01{
+    padding: 0px;
+    margin: 0px;
+    float: left;
+}
+.codexworld_rating_widget01 li{
+    line-height: 0px;
+    width: 16px;
+    height: 16px;
+    padding: 0px;
+    margin: 0px;
+    margin-left: 2px;
+    list-style: none;
+    float: left;
+    cursor: pointer;
+}
+.codexworld_rating_widget01 li span{
+    display: none;
+}

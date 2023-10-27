@@ -1,0 +1,12 @@
+[17-Aug-2021 01:51:39 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 310
+[02-Sep-2021 01:44:28 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 320
+[02-Sep-2021 01:49:27 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 320
+[02-Sep-2021 01:51:33 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 110
+[12-Oct-2021 20:05:05 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/publicgigads/index.php on line 32 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/publicgigads/index.php(32): pdoQuery('postedgigsmaste...', Array, Array, NULL, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[19-Nov-2021 16:55:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 385
+[05-Jan-2022 19:35:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/gospelscout.com/public_html/publicgigads/ad_details.php on line 776
+[09-Dec-2022 23:40:56 UTC] PHP Parse error:  syntax error, unexpected 'name' (T_STRING), expecting ';' or ',' in /home/customer/www/gospelscout.com/public_html/publicgigads/index.php on line 12

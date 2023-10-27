@@ -1,0 +1,30 @@
+[02-Nov-2021 17:55:40 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Database::fetchRowAll(), 2 passed in /home/customer/www/gospelscout.com/public_html/signup/gen_user/index.php on line 111 and exactly 3 expected in /home/customer/www/gospelscout.com/public_html/common/database.php:100
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/signup/gen_user/index.php(111): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 100
+[02-Nov-2021 17:57:31 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Database::fetchRowAll(), 2 passed in /home/customer/www/gospelscout.com/public_html/signup/gen_user/index.php on line 110 and exactly 3 expected in /home/customer/www/gospelscout.com/public_html/common/database.php:100
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/signup/gen_user/index.php(110): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 100
+[02-Nov-2021 18:00:28 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Database::fetchRowAll(), 2 passed in /home/customer/www/gospelscout.com/public_html/signup/gen_user/index.php on line 110 and exactly 3 expected in /home/customer/www/gospelscout.com/public_html/common/database.php:100
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/signup/gen_user/index.php(110): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 100
+[02-Nov-2021 18:01:02 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Database::fetchRowAll(), 2 passed in /home/customer/www/gospelscout.com/public_html/signup/gen_user/index.php on line 110 and exactly 3 expected in /home/customer/www/gospelscout.com/public_html/common/database.php:100
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/signup/gen_user/index.php(110): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 100
+[02-Nov-2021 18:01:04 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Database::fetchRowAll(), 2 passed in /home/customer/www/gospelscout.com/public_html/signup/gen_user/index.php on line 110 and exactly 3 expected in /home/customer/www/gospelscout.com/public_html/common/database.php:100
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/signup/gen_user/index.php(110): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 100
+[02-Nov-2021 18:01:05 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Database::fetchRowAll(), 2 passed in /home/customer/www/gospelscout.com/public_html/signup/gen_user/index.php on line 110 and exactly 3 expected in /home/customer/www/gospelscout.com/public_html/common/database.php:100
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/signup/gen_user/index.php(110): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 100

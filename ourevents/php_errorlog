@@ -1,0 +1,88 @@
+[25-Jan-2021 13:30:58 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/gospelsc/public_html/popupworship/index.php on line 4
+[26-Jan-2021 22:42:23 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/gospelsc/public_html/popupworship/index.php on line 360
+[14-Jul-2021 18:18:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/home/include/header.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/popupworship/index.php(2): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[16-Jul-2021 01:29:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/home/include/header.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/popupworship/index.php(2): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[17-Jul-2021 03:35:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/home/include/header.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/popupworship/index.php(2): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[17-Jul-2021 20:20:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/home/include/header.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/popupworship/index.php(2): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[18-Jul-2021 09:17:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/home/include/header.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/popupworship/index.php(2): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[19-Jul-2021 05:25:15 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 2 passed in /home/customer/www/gospelscout.com/public_html/popupworship/index.php on line 8 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/popupworship/index.php(8): pdoQuery('puwcitymaster', 'all')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[20-Jul-2021 10:58:54 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 2 passed in /home/customer/www/gospelscout.com/public_html/popupworship/index.php on line 8 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/popupworship/index.php(8): pdoQuery('puwcitymaster', 'all')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[20-Jul-2021 23:56:07 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 2 passed in /home/customer/www/gospelscout.com/public_html/popupworship/index.php on line 8 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/popupworship/index.php(8): pdoQuery('puwcitymaster', 'all')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[22-Jul-2021 05:39:58 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 2 passed in /home/customer/www/gospelscout.com/public_html/popupworship/index.php on line 8 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/popupworship/index.php(8): pdoQuery('puwcitymaster', 'all')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[22-Jul-2021 19:58:50 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 2 passed in /home/customer/www/gospelscout.com/public_html/popupworship/index.php on line 8 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/popupworship/index.php(8): pdoQuery('puwcitymaster', 'all')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[23-Jul-2021 08:17:20 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 2 passed in /home/customer/www/gospelscout.com/public_html/popupworship/index.php on line 8 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/popupworship/index.php(8): pdoQuery('puwcitymaster', 'all')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[23-Jul-2021 15:26:12 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 2 passed in /home/customer/www/gospelscout.com/public_html/popupworship/index.php on line 6 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/popupworship/index.php(6): pdoQuery('puwcitymaster', 'all')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[23-Jul-2021 15:26:30 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 2 passed in /home/customer/www/gospelscout.com/public_html/popupworship/index.php on line 6 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/popupworship/index.php(6): pdoQuery('puwcitymaster', 'all')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[23-Jul-2021 15:45:33 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 2 passed in /home/customer/www/gospelscout.com/public_html/popupworship/index.php on line 6 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/popupworship/index.php(6): pdoQuery('puwcitymaster', 'all')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[26-Jul-2021 16:05:05 UTC] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /home/customer/www/gospelscout.com/public_html/popupworship/index.php on line 15
+[02-Sep-2021 00:45:28 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 110
+[02-Sep-2021 00:45:37 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 110
+[02-Sep-2021 00:45:43 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 110
+[02-Sep-2021 00:47:33 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 110
+[02-Sep-2021 00:49:26 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 111

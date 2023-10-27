@@ -1,0 +1,202 @@
+#searchBar::placeholder {
+	color: rgba(255,255,255,.5);
+}
+#searchBar {
+	background-image: url(search_icon.svg);/*https://dev.gospelscout.com/newHomePage/img/search_icon.png*/
+	background-position: 8px 10px;
+    background-repeat: no-repeat;
+    text-indent: 20px;
+    color:rgba(255,255,255,1);
+	background-color:rgba(255,255,255,.1);
+	border-radius: 20px 20px 20px 20px;
+}
+.categ_pills{
+	background-color: rgb(244,236,246);
+	color: rgba(149,73,173,1);
+	white-space:nowrap;
+}
+.active_categ {
+	background-color: rgba(149,73,173,.5);
+	color: rgba(255,255,255,1);
+	font-weight: bold;
+}
+ul.navbar-nav li{
+	display:inline-block;
+}
+.pagination li a{
+	background-color: rgba(244,244,244,1);
+	color: rgba(144,144,144,1);
+	border: none;
+}
+.pagination li a.active {
+	background-color: rgba(149,73,173,1);
+	color: white;
+	/*border: none;*/
+}
+
+#button-addon2 {
+	background-image: url(filter_icon.svg);/*https://dev.gospelscout.com/newHomePage/img/search_icon.png*/
+	min-height: 38px;
+	min-width: 46px;
+	background-size:20px 20px;
+	background-repeat:no-repeat;
+	background-position:50% 50%;
+	background-color:rgba(255,255,255,.1);
+	border-radius:0px 20px 20px 0px;
+}
+
+#nav-category {
+	/*overflow-x: scroll;*/
+	width: 100%;
+}
+
+/* Break points */
+	/* Extra small devices (phones, 600px and down) */
+	@media only screen and (max-width: 440px) {
+		#searchBar{
+			width: 55%;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		.artist-images{
+			width:100%;
+			height:10px;
+		}
+		#layer2 {
+			background-image: url(background_oval_3.svg);
+			background-repeat:no-repeat;
+			background-position:350% 200%;
+			background-size:300px 300px;
+		}	
+		#layer3 {
+			background-image: url(background_oval_3.svg);
+			background-repeat:no-repeat;background-position: -50% 200%;
+			background-size:200px 200px	
+		}
+	}
+	@media only screen and (max-width: 600px) {
+		#uNameDisplay{
+			font-size:12px;
+		}
+		.artist-images{
+			width:100%;
+			height:200px;
+		}
+		#searchBar::placeholder {
+			color:rgba(68,68,68,.6);
+		}
+		#searchBar{
+			background-image: url(search_icon_1.svg);/*https://dev.gospelscout.com/newHomePage/img/search_icon.png*/
+			position: absolute;
+			width: 90%;
+			left: 5%;
+			top: 60px;
+			background-color:rgba(244,244,244,1);
+			border: .5px solid rgba(149,73,173,1);
+			color:rgba(68,68,68,1);
+		}
+		#button-addon2{
+			position: absolute;
+			background-image: url(filter_icon_1.svg);/*https://dev.gospelscout.com/newHomePage/img/search_icon.png*/
+			background-color:rgba(244,244,244,1);
+			border-radius: 0px 20px 20px 0px;
+			border: .5px solid rgba(149,73,173,1);
+			right:35px;
+			top: 60px;
+		}
+		#layer2 {
+			background-image: url(background_oval_3.svg);
+			background-repeat:no-repeat;
+			background-position:200% 200%;
+			background-size:300px 300px;
+		}	
+		#layer3 {
+			background-image: url(background_oval_3.svg);
+			background-repeat:no-repeat;background-position: -30% 200%;
+			background-size:200px 200px	
+		}
+	}
+
+	/* Small devices (portrait tablets and large phones, 600px and up) */
+	@media only screen and (min-width: 600px) {
+		#uNameDisplay{
+			font-size:15px;
+		}
+		.artist-images{
+			width:100%;
+			height:250px;
+		}
+		#layer2 {
+			background-image: url(background_oval_3.svg);
+			background-repeat:no-repeat;
+			background-position:100% 120%;
+			background-size:500px 500px;
+		}	
+		#layer3 {
+			background-image: url(background_oval_3.svg);
+			background-repeat:no-repeat;background-position: -50% -1200%;
+			background-size:300px 300px	
+		}
+	}
+
+	/* Medium devices (landscape tablets, 768px and up) */
+	@media only screen and (min-width: 768px) {
+		.artist-images{
+			width:100%;
+			height:175px;
+		}
+		#layer2 {
+			background-image: url(background_oval_3.svg);
+			background-repeat:no-repeat;
+			background-position:190% 100%;
+			background-size:500px 500px;
+		}	
+		#layer3 {
+			background-image: url(background_oval_3.svg);
+			background-repeat:no-repeat;background-position: -30% 700%;
+			background-size:300px 300px	
+		}
+		
+	}
+
+	/* Large devices (laptops/desktops, 992px and up) */
+	@media only screen and (min-width: 992px) {
+		.artist-images{
+			width:100%;
+			height:250px;
+		}
+		#layer2 {
+			background-image: url(background_oval_3.svg);
+			background-repeat:no-repeat;background-position:230% 90%;
+			background-size:700px 700px;
+		}	
+		#layer3 {
+			background-image: url(background_oval_3.svg);
+			background-repeat:no-repeat;background-position: -10% 2000%;
+			background-size:300px 300px	
+		}
+	}
+
+	/* Extra large devices (large laptops and desktops, 1200px and up) */
+	@media only screen and (min-width: 1200px) {
+		#layer2 {
+			background-image: url(background_oval_3.svg);
+			background-repeat:no-repeat;background-position:116% 85%;
+			background-size:700px 700px;
+		}	
+		#layer3 {
+			background-image: url(background_oval_3.svg);
+			background-repeat:no-repeat;background-position: -10% -150%;
+			background-size:400px 400px	
+		}
+	}
+	#artistThumbs {
+		background-repeat:no-repeat;
+		background-position:center;
+		background-size: cover; /* Resize the background image to cover the entire container */
+		min-height: 200px;
+		/* min-width: 46px; */
+	}
+	svg {
+		color: #fff;
+	}

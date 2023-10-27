@@ -1,0 +1,15 @@
+{
+    "require": {
+        "monolog/monolog": "^1.22",
+        "symfony/http-foundation": "^3.2",
+        "curl/curl": "^1.6",
+        "milo/github-api": "^1.4",
+        "twig/twig": "^1.33",
+        "twbs/bootstrap": "^4.0",
+        "sammaye/mailchimp": "^1.4",
+        "mailchimp/mailchimp": "^2.0",
+        "phpmailer/phpmailer": "^5.2",
+        "wildbit/postmark-php": "^2.3",
+        "stripe/stripe-php": "^6.30"
+    }
+}

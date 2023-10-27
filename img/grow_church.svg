@@ -1,0 +1,37 @@
+
+<svg width="471px" height="499px" viewBox="0 0 471 499" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="church_icon-copy-2" transform="translate(0.000000, -3.191406)">
+            <g id="church-building" transform="translate(0.000000, 105.548532)">
+                <path d="M117.62289,226.175425 L117.62289,310.991209 L205.840058,310.991209 L205.840058,226.175425 L117.62289,226.175425 L117.62289,226.175425 Z M235.24578,0 L205.840058,28.2719281 L0,226.175425 L29.4057225,254.447353 L58.811445,226.175425 L58.811445,395.806994 L235.24578,395.806994 L352.86867,395.806994 L411.680115,395.806994 L411.680115,226.175425 L441.085838,254.447353 L470.49156,226.175425 L264.651503,28.2719281 L235.24578,0 L235.24578,0 Z M87.041307,197.906098 L97.3462025,188.092852 L236.315079,62.7636804 L380.289191,194.261178 L385,198.747233 L385,367.535066 L353.202037,367.254687 L353.202037,224.82243 L235.431802,224.82243 L235.431802,366.133173 L86.7468814,365.011659 L87.041307,197.906098 L87.041307,197.906098 Z M323.462948,254.447353 L323.462948,367.535066 L264.651503,367.535066 L264.651503,254.447353 L323.462948,254.447353 L323.462948,254.447353 Z" id="Shape-Copy-5" fill="#9549AD"></path>
+                <g id="Group-12" transform="translate(88.000000, 63.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle-3" x="0" y="134.903497" width="297" height="169.631569"></rect>
+                    <polygon id="Triangle" points="148.5 0 297 135 0 135"></polygon>
+                </g>
+                <g id="Group-11" transform="translate(102.000000, 164.000000)">
+                    <g id="Group-8" transform="translate(0.000000, 93.000000)" fill="#BD8AC7">
+                        <rect id="Rectangle-7" x="210" y="0" width="52" height="111"></rect>
+                        <rect id="Rectangle-7-Copy" x="140" y="22.2" width="52" height="88.8"></rect>
+                        <rect id="Rectangle-7-Copy-2" x="70" y="39.4666667" width="52" height="71.1222222"></rect>
+                        <rect id="Rectangle-7-Copy-3" x="0" y="53.4444444" width="52" height="56.8977753"></rect>
+                    </g>
+                    <g id="Group-10" transform="translate(14.000000, 0.642875)">
+                        <path d="M0.5,121.5 L83,55" id="Line" stroke="#BD8AC7" stroke-width="20" stroke-linecap="square"></path>
+                        <path d="M89.5,61.5 L125,98" id="Line" stroke="#BD8AC7" stroke-width="20" stroke-linecap="square"></path>
+                        <g id="Group-9" transform="translate(128.000000, 0.000000)">
+                            <path d="M0.5,96.5 L69,45" id="Line" stroke="#BD8AC7" stroke-width="20" stroke-linecap="square"></path>
+                            <polygon id="Triangle-2" fill="#BD8AC7" transform="translate(85.000000, 32.500000) rotate(50.000000) translate(-85.000000, -32.500000) " points="85 13 110 52 60 52"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="cross" transform="translate(166.055845, 0.000000)" stroke="#9549AD" stroke-width="20" stroke-linecap="square">
+                <path d="M69.1899353,13.1935665 L69.1899353,145.129231" id="Line-Copy-7"></path>
+                <path d="M13.8379871,59.0037313 L124.541884,59.0037313" id="Line-Copy-8"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+[29-Mar-2023 22:00:55 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/puwAdminDashboard/dashboard/phpBackend/connectToDb.php on line 1059 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:500
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/puwAdminDashboard/dashboard/phpBackend/connectToDb.php(1059): pdoQuery(' puweventsmaste...', Array, Array, 'date', Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 500
+[29-Mar-2023 22:04:37 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/puwAdminDashboard/dashboard/phpBackend/connectToDb.php on line 964 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:500
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/puwAdminDashboard/dashboard/phpBackend/connectToDb.php(964): pdoQuery('states', Array, Array, 'puwhostsmaster....', Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 500
+[29-Mar-2023 22:06:20 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/puwAdminDashboard/dashboard/phpBackend/connectToDb.php on line 964 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:500
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/puwAdminDashboard/dashboard/phpBackend/connectToDb.php(964): pdoQuery('states', Array, Array, 'puwhostsmaster....', Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 500

@@ -1,0 +1,48 @@
+
+<svg width="285px" height="313px" viewBox="0 0 285 313" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="200 183 285 219 115 219"></polygon>
+        <polygon id="path-2" points="85 183 170 219 0 219"></polygon>
+        <path d="M182.999037,309 L200,309 L200,105 L85,105 L85,309 L107.000963,309 C107.000321,308.833472 107,308.666805 107,308.5 C107,270.11621 124.01318,239 145,239 C165.98682,239 183,270.11621 183,308.5 C183,308.666805 182.999679,308.833472 182.999037,309 Z" id="path-3"></path>
+        <rect id="path-4" x="0" y="219" width="85" height="89.8295455"></rect>
+        <rect id="path-5" x="200" y="219" width="85" height="89.8295455"></rect>
+        <polygon id="path-6" points="142.5 50 200 105.104167 85 105.104167"></polygon>
+        <path d="M130.046918,147.351562 L130,147.351562 L130,201.351562 L159,201.351562 L159,147.351562 L158.953082,147.351562 C158.354973,134.81754 152.11257,128 144.5,128 C136.88743,128 130.645027,134.81754 130.046918,147.351562 Z" id="path-7"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-9" transform="translate(0.000000, 4.000000)">
+            <g id="Triangle-2">
+                <use fill="#9A49A3" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <path stroke="#000000" stroke-width="4" d="M200,185.171983 L275.149485,217 L124.850515,217 L200,185.171983 Z"></path>
+            </g>
+            <g id="Triangle-2-Copy" transform="translate(85.000000, 201.000000) scale(-1, 1) translate(-85.000000, -201.000000) ">
+                <use fill="#9A49A3" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <path stroke="#000000" stroke-width="4" d="M85,185.171983 L160.149485,217 L9.8505146,217 L85,185.171983 Z"></path>
+            </g>
+            <g id="Combined-Shape">
+                <use fill="#E8E8E8" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <path stroke="#000000" stroke-width="4" d="M184.991466,307 C184.551224,268.344346 167.131371,237 145,237 C122.868629,237 105.448776,268.344346 105.008534,307 L87,307 L87,107 L198,107 L198,307 L184.991466,307 Z"></path>
+            </g>
+            <g id="Rectangle-5-Copy">
+                <use fill="#E8E8E8" fill-rule="evenodd" xlink:href="#path-4"></use>
+                <rect stroke="#000000" stroke-width="4" x="2" y="221" width="81" height="85.8295455"></rect>
+            </g>
+            <g id="Rectangle-5-Copy-2">
+                <use fill="#E8E8E8" fill-rule="evenodd" xlink:href="#path-5"></use>
+                <rect stroke="#000000" stroke-width="4" x="202" y="221" width="81" height="85.8295455"></rect>
+            </g>
+            <g id="Triangle">
+                <use fill="#9A49A3" fill-rule="evenodd" xlink:href="#path-6"></use>
+                <path stroke="#000000" stroke-width="4" d="M142.5,52.7701284 L195.022475,103.104167 L89.9775252,103.104167 L142.5,52.7701284 Z"></path>
+            </g>
+            <path d="M142.5,0 L142.5,51" id="Line" stroke="#000000" stroke-width="7" stroke-linecap="square"></path>
+            <path d="M161,22.3333333 L123,22.3333333" id="Line-Copy" stroke="#000000" stroke-width="7" stroke-linecap="square" stroke-linejoin="round" stroke-dasharray="1,1"></path>
+            <g id="Combined-Shape">
+                <use fill="#84B3D3" fill-rule="evenodd" xlink:href="#path-7"></use>
+                <path stroke="#000000" stroke-width="4" d="M132,148.382463 L132.044644,147.446892 C132.569359,136.450932 137.670992,130 144.5,130 C151.329008,130 156.430641,136.450932 156.955356,147.446892 L157,148.382463 L157,199.351562 L132,199.351562 L132,148.382463 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>
