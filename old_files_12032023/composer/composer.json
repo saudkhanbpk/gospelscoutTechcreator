@@ -1,0 +1,19 @@
+{
+    "require": {
+        "monolog/monolog": "^1.22",
+        "symfony/http-foundation": "^3.2",
+        "curl/curl": "^1.6",
+        "milo/github-api": "^1.4",
+        "twig/twig": "^1.33",
+        "twbs/bootstrap": "^4.4.1",
+        "sammaye/mailchimp": "^1.4",
+        "mailchimp/mailchimp": "^2.0",
+        "phpmailer/phpmailer": "^5.2",
+        "wildbit/postmark-php": "^2.3",
+        "stripe/stripe-php": "^7.107",
+        "google/apiclient": "^2.0",
+        "knplabs/knp-snappy": "^1.2.1",
+        "h4cc/wkhtmltoimage-amd64": "^0.12.4",
+        "h4cc/wkhtmltopdf-amd64": "^0.12.4"
+    }
+}

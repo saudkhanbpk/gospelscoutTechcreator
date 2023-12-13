@@ -1,0 +1,131 @@
+[28-Sep-2021 22:13:33 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 7 passed in /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php on line 47 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php(47): pdoQuery('notificationmas...', Array, Array, NULL, Array, NULL, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[03-Oct-2021 18:17:00 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 7 passed in /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php on line 47 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php(47): pdoQuery('notificationmas...', Array, Array, NULL, Array, NULL, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[06-Oct-2021 18:08:11 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 7 passed in /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php on line 47 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php(47): pdoQuery('notificationmas...', Array, Array, NULL, Array, NULL, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[09-Oct-2021 16:57:22 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 7 passed in /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php on line 47 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php(47): pdoQuery('notificationmas...', Array, Array, NULL, Array, NULL, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[09-Oct-2021 19:22:01 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 7 passed in /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php on line 47 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php(47): pdoQuery('notificationmas...', Array, Array, NULL, Array, NULL, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[09-Oct-2021 19:22:03 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 6 passed in /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php on line 72 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php(72): pdoQuery('postedgigssugge...', Array, Array, NULL, Array, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[09-Oct-2021 19:22:04 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 6 passed in /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php on line 97 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php(97): pdoQuery('postedgiginquir...', Array, Array, NULL, Array, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[09-Oct-2021 19:22:05 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 6 passed in /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php on line 125 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php(125): pdoQuery('postedgiginquir...', Array, Array, NULL, Array, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 19:30:25 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 7 passed in /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php on line 47 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php(47): pdoQuery('notificationmas...', Array, Array, NULL, Array, NULL, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 19:30:47 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 6 passed in /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php on line 72 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php(72): pdoQuery('postedgigssugge...', Array, Array, NULL, Array, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 19:30:48 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 6 passed in /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php on line 97 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php(97): pdoQuery('postedgiginquir...', Array, Array, NULL, Array, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 19:30:49 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 6 passed in /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php on line 125 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php(125): pdoQuery('postedgiginquir...', Array, Array, NULL, Array, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 19:30:50 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 6 passed in /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php on line 97 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php(97): pdoQuery('postedgiginquir...', Array, Array, NULL, Array, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 19:30:51 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 6 passed in /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php on line 72 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php(72): pdoQuery('postedgigssugge...', Array, Array, NULL, Array, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 19:30:52 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 7 passed in /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php on line 47 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php(47): pdoQuery('notificationmas...', Array, Array, NULL, Array, NULL, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 19:30:59 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 6 passed in /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php on line 72 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php(72): pdoQuery('postedgigssugge...', Array, Array, NULL, Array, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 19:31:00 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 6 passed in /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php on line 97 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php(97): pdoQuery('postedgiginquir...', Array, Array, NULL, Array, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 19:31:01 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 6 passed in /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php on line 125 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php(125): pdoQuery('postedgiginquir...', Array, Array, NULL, Array, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 19:31:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 7 passed in /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php on line 47 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php(47): pdoQuery('notificationmas...', Array, Array, NULL, Array, NULL, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 19:36:27 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 7 passed in /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php on line 47 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php(47): pdoQuery('notificationmas...', Array, Array, NULL, Array, NULL, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 19:37:49 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 6 passed in /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php on line 72 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php(72): pdoQuery('postedgigssugge...', Array, Array, NULL, Array, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 19:38:22 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 6 passed in /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php on line 97 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php(97): pdoQuery('postedgiginquir...', Array, Array, NULL, Array, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 19:38:49 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 6 passed in /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php on line 125 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php(125): pdoQuery('postedgiginquir...', Array, Array, NULL, Array, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 21:48:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/customer/www/gospelscout.com/public_html/common/database.php:616
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php(28): Database->update(Array, Array, 'id = 47', 'notificationmas...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 616
+[12-Oct-2021 21:48:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/customer/www/gospelscout.com/public_html/common/database.php:616
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php(28): Database->update(Array, Array, 'id = 47', 'notificationmas...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 616
+[12-Oct-2021 21:49:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/customer/www/gospelscout.com/public_html/common/database.php:616
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php(28): Database->update(Array, Array, 'id = 47', 'notificationmas...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 616
+[24-Oct-2021 22:05:42 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/customer/www/gospelscout.com/public_html/notification/phpBackend/connectToDb.php on line 10

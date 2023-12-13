@@ -1,0 +1,153 @@
+[24-Aug-2021 07:39:35 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 320
+[10-Sep-2021 05:08:29 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 110
+[25-Sep-2021 17:28:02 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 110
+[25-Sep-2021 18:03:42 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 320
+[25-Sep-2021 18:05:31 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 320
+[25-Sep-2021 18:06:04 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 320
+[25-Sep-2021 18:07:12 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 320
+[25-Sep-2021 19:00:43 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 320
+[25-Sep-2021 19:05:32 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 320
+[25-Sep-2021 19:08:22 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 320
+[25-Sep-2021 19:09:27 UTC] PHP Parse error:  syntax error, unexpected 'l' (T_STRING) in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/connectToDb_artistprofile.php on line 113
+[25-Sep-2021 20:49:06 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 320
+[25-Sep-2021 20:52:10 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 320
+[25-Sep-2021 20:53:07 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 320
+[28-Sep-2021 22:13:42 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/g_postedGigs.php on line 54 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/g_postedGigs.php(54): pdoQuery('postedgigsmaste...', 'all', Array, 'gigDate', Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[03-Oct-2021 18:16:55 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/g_postedGigs.php on line 54 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/g_postedGigs.php(54): pdoQuery('postedgigsmaste...', 'all', Array, 'gigDate', Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[06-Oct-2021 18:14:11 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/g_postedGigs.php on line 54 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/g_postedGigs.php(54): pdoQuery('postedgigsmaste...', 'all', Array, 'gigDate', Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[09-Oct-2021 16:57:38 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/g_postedGigs.php on line 54 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/g_postedGigs.php(54): pdoQuery('postedgigsmaste...', 'all', Array, 'gigDate', Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 19:54:11 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/g_postedGigs.php on line 54 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/g_postedGigs.php(54): pdoQuery('postedgigsmaste...', 'all', Array, 'gigDate', Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 19:59:42 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/g_postedGigs.php on line 54 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/g_postedGigs.php(54): pdoQuery('postedgigsmaste...', 'all', Array, 'gigDate', Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 19:59:49 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/g_postedGigs.php on line 54 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/g_postedGigs.php(54): pdoQuery('postedgigsmaste...', 'all', Array, 'gigDate', Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 20:00:24 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/g_postedGigs.php on line 54 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/g_postedGigs.php(54): pdoQuery('postedgigsmaste...', 'all', Array, 'gigDate', Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 20:01:25 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/g_postedGigs.php on line 54 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/g_postedGigs.php(54): pdoQuery('postedgigsmaste...', 'all', Array, 'gigDate', Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 20:09:34 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php on line 22 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php(22): pdoQuery('usermaster', Array, Array, NULL, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 20:09:53 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php on line 22 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php(22): pdoQuery('usermaster', Array, Array, NULL, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 20:11:59 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php on line 22 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php(22): pdoQuery('usermaster', Array, Array, NULL, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 20:12:34 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php on line 22 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php(22): pdoQuery('usermaster', Array, Array, NULL, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 20:12:49 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php on line 22 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php(22): pdoQuery('usermaster', Array, Array, NULL, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 20:15:53 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php on line 22 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php(22): pdoQuery('usermaster', Array, Array, NULL, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 20:16:07 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php on line 22 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php(22): pdoQuery('usermaster', Array, Array, NULL, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 20:18:30 UTC] PHP Deprecated:  array_key_exists(): Using array_key_exists() on objects is deprecated. Use isset() or property_exists() instead in /home/customer/www/gospelscout.com/public_html/composer/vendor/stripe/stripe-php/lib/ApiRequestor.php on line 402
+[12-Oct-2021 20:21:21 UTC] PHP Deprecated:  array_key_exists(): Using array_key_exists() on objects is deprecated. Use isset() or property_exists() instead in /home/customer/www/gospelscout.com/public_html/composer/vendor/stripe/stripe-php/lib/ApiRequestor.php on line 402
+[12-Oct-2021 20:30:31 UTC] PHP Deprecated:  array_key_exists(): Using array_key_exists() on objects is deprecated. Use isset() or property_exists() instead in /home/customer/www/gospelscout.com/public_html/composer/vendor/stripe/stripe-php/lib/ApiRequestor.php on line 402
+[12-Oct-2021 20:34:31 UTC] PHP Deprecated:  array_key_exists(): Using array_key_exists() on objects is deprecated. Use isset() or property_exists() instead in /home/customer/www/gospelscout.com/public_html/composer/vendor/stripe/stripe-php/lib/ApiRequestor.php on line 402
+[12-Oct-2021 20:34:53 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/customer/www/gospelscout.com/public_html/composer/vendor/stripe/stripe-php/lib/ApiRequestor.php on line 403
+[19-Nov-2021 17:45:13 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/g_postedGigs.php on line 153 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:499
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/g_postedGigs.php(153): pdoQuery('postedgigsmaste...', 'all', Array, 'gigDate', Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 499
+[19-Nov-2021 18:24:38 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/g_postedGigs.php on line 153 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:500
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/g_postedGigs.php(153): pdoQuery('postedgigsmaste...', 'all', Array, 'gigDate', Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 500
+[19-Nov-2021 18:28:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/g_postedGigs.php on line 153 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:500
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/g_postedGigs.php(153): pdoQuery('postedgigsmaste...', 'all', Array, 'gigDate', Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 500
+[05-Jan-2022 21:15:31 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php on line 20 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:500
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php(20): pdoQuery('usermaster', Array, Array, NULL, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 500
+[05-Jan-2022 21:15:31 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php on line 20 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:500
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php(20): pdoQuery('usermaster', Array, Array, NULL, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 500
+[05-Jan-2022 21:17:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php on line 20 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:500
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php(20): pdoQuery('usermaster', Array, Array, NULL, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 500
+[05-Jan-2022 21:17:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php on line 20 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:500
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php(20): pdoQuery('usermaster', Array, Array, NULL, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 500
+[06-Jan-2022 16:22:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function create() on null in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php:47
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php(162): createNewCust(Array, Object(PDO))
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php on line 47
+[06-Jan-2022 16:23:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function create() on null in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php:47
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php(162): createNewCust(Array, Object(PDO))
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php on line 47
+[06-Jan-2022 16:37:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function create() on null in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php:47
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php(162): createNewCust(Array, Object(PDO))
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php on line 47
+[13-Jan-2022 04:15:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function detach() on null in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/views/xmlhttprequest/get_set_str_tok_new.php on line 188

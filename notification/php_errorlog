@@ -1,0 +1,7 @@
+[15-Jul-2021 04:11:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/notification/index.php(3): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38

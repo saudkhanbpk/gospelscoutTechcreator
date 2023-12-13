@@ -1,0 +1,18 @@
+
+<svg width="72px" height="33px" viewBox="0 0 72 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="72" height="33"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="email_icon_2">
+            <g id="Rectangle-2">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#BDBDBD" stroke-width="2" x="1" y="1" width="70" height="31"></rect>
+            </g>
+            <path d="M1.5,1.5 L35.5,32.5" id="Line" stroke="#BDBDBD" stroke-linecap="square"></path>
+            <path d="M36.5,32.5 L71.5,0.5" id="Line" stroke="#BDBDBD" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

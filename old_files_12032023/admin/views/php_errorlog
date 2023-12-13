@@ -1,0 +1,1 @@
+[01-Jan-2023 07:10:19 UTC] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/customer/www/gospelscout.com/public_html/admin/views/login.php on line 99

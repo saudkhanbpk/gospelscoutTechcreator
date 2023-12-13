@@ -1,0 +1,11 @@
+[08-Jan-2022 15:30:25 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Database::fetchRow(), 2 passed in /home/customer/www/gospelscout.com/public_html/myAccount/index.php on line 17 and exactly 3 expected in /home/customer/www/gospelscout.com/public_html/common/database.php:320
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/myAccount/index.php(17): Database->fetchRow('usermaster', 'iLoginID = 258')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 320
+[08-Jan-2022 15:40:30 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/customer/www/gospelscout.com/public_html/myAccount/index.php on line 50
+[09-Nov-2023 16:51:38 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Database::fetchRow(), 2 passed in /home/customer/www/gospelscout.com/public_html/myAccount/updateMyAccount.php on line 158 and exactly 3 expected in /home/customer/www/gospelscout.com/public_html/common/database.php:320
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/myAccount/updateMyAccount.php(158): Database->fetchRow('loginmaster', 'iLoginID = 404')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 320

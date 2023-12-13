@@ -1,0 +1,150 @@
+[12-Oct-2021 20:04:55 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php on line 124 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php(124): pdoQuery('postedgiginquir...', Array, Array, NULL, Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 20:24:21 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 3 passed in /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb.php on line 436 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb.php(436): pdoQuery('postedgigssugge...', Array, Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 20:26:12 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php on line 124 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php(124): pdoQuery('postedgiginquir...', Array, Array, NULL, Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 20:28:53 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php on line 124 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php(124): pdoQuery('postedgiginquir...', Array, Array, NULL, Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[12-Oct-2021 20:52:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:594
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb.php(234): Database->insert(Array, Array, 'postedgigneeded...')
+#1 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb.php(267): tal_insert(Array, Object(Database), 'postedgigneeded...')
+#2 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 594
+[12-Oct-2021 20:54:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:594
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb.php(234): Database->insert(Array, Array, 'postedgigneeded...')
+#1 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb.php(267): tal_insert(Array, Object(Database), 'postedgigneeded...')
+#2 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 594
+[12-Oct-2021 21:02:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:72
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb.php(235): pdoInsert(NULL, Array, Array, 'postedgigneeded...')
+#1 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb.php(268): tal_insert(Array, Object(Database), 'postedgigneeded...')
+#2 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 72
+[12-Oct-2021 21:04:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:72
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb.php(235): pdoInsert(NULL, Array, Array, 'postedgigneeded...')
+#1 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb.php(268): tal_insert(Array, Object(Database), 'postedgigneeded...')
+#2 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 72
+[12-Oct-2021 21:06:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:73
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb.php(235): pdoInsert(NULL, Array, Array, 'postedgigneeded...')
+#1 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb.php(268): tal_insert(Array, Object(Database), 'postedgigneeded...')
+#2 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 73
+[12-Oct-2021 21:34:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:73
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb.php(235): pdoInsert(NULL, Array, Array, 'postedgigneeded...')
+#1 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb.php(268): tal_insert(Array, Object(Database), 'postedgigneeded...')
+#2 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 73
+[12-Oct-2021 21:40:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:594
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php(211): Database->insert(Array, Array, 'postedgiginquir...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 594
+[12-Oct-2021 21:40:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:594
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php(211): Database->insert(Array, Array, 'postedgiginquir...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 594
+[12-Oct-2021 21:43:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:594
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php(211): Database->insert(Array, Array, 'postedgiginquir...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 594
+[12-Oct-2021 21:44:40 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php:212
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php on line 212
+[12-Oct-2021 21:45:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:594
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php(251): Database->insert(Array, Array, 'notificationmas...')
+#1 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php(259): createNotification(Object(PDO), Object(Database), 'gigInquiry', '267', '258', 'faeeec00166611e...')
+#2 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 594
+[12-Oct-2021 21:47:04 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:252
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php(259): createNotification(Object(PDO), Object(Database), 'gigInquiry', '267', '258', 'faeeec00166611e...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 252
+[12-Oct-2021 21:53:06 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php on line 31 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:482
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php(31): pdoQuery('postedgiginquir...', Array, Array, NULL, Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 482
+[12-Oct-2021 21:53:13 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php on line 31 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:482
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php(31): pdoQuery('postedgiginquir...', Array, Array, NULL, Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 482
+[12-Oct-2021 21:58:34 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php on line 31 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:482
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php(31): pdoQuery('postedgiginquir...', Array, Array, NULL, Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 482
+[12-Oct-2021 22:00:39 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php on line 31 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:482
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php(31): pdoQuery('postedgiginquir...', Array, Array, NULL, Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 482
+[12-Oct-2021 22:02:06 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php on line 47 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:482
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php(47): pdoQuery('postedgigneeded...', Array, Array, NULL, Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 482
+[12-Oct-2021 22:02:35 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php on line 55 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:482
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php(55): pdoQuery('postedgigneeded...', Array, Array, NULL, Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 482
+[12-Oct-2021 22:03:07 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php on line 93 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:482
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php(93): pdoQuery('talentmaster', Array, Array, NULL, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 482
+[06-Nov-2021 02:13:12 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 7 passed in /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb.php on line 25 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:482
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb.php(25): pdoQuery('usermaster', Array, Array, NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 482
+[19-Nov-2021 17:29:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:72
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb.php(389): pdoInsert(NULL, Array, Array, 'postedgigssugge...')
+#1 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb.php(496): suggestGig(Array, Array, Object(Database))
+#2 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 72
+[19-Nov-2021 18:03:20 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php on line 350 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:499
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php(350): pdoQuery('eventartists', 'all', Array, NULL, NULL)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 499
+[19-Nov-2021 18:09:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:594
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php(435): Database->insert(Array, Array, 'eventartists')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 594
+[07-Dec-2021 18:54:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Database::prepare() in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:72
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb.php(389): pdoInsert(Object(Database), Array, Array, 'postedgigssugge...')
+#1 /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb.php(509): suggestGig(Array, Array, Object(Database))
+#2 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 72
+[15-Dec-2021 22:43:37 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php on line 71
+[15-Dec-2021 22:43:41 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/customer/www/gospelscout.com/public_html/publicgigads/phpBackend/connectToDb_ad_details.php on line 71

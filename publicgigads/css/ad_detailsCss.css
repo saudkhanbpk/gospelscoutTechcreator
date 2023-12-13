@@ -1,0 +1,27 @@
+.nav-link-1 .active {
+    background-color: rgba('149,73,173,1');
+}
+
+#showArtDeet th{
+    width: 150px;
+}
+.showTals  {
+    width: 10px;
+}
+tr.showing {
+    background-color: rgba(149,73,173,.5);
+}
+#getUid .active,.nav-link:hover {
+    background-color: rgba(149,0,173,1);
+}     
+
+.nav-tabs .nav-link.active {
+    color: #fff;
+    background-color: rgba(149,73,173);
+    /* border-color: #dee2e6 #dee2e6 #fff; */
+    border:none;
+}
+
+#canc-conf-mess p {
+    font-size: 1em;
+}

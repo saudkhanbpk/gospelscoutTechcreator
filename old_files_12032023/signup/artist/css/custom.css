@@ -1,0 +1,15 @@
+.thumb {
+    width: 100px;
+    height: 100px;
+    object-fit:cover; 
+    object-position:0,0;
+}
+#thumb {
+    box-shadow: -1px 2px 10px 0px rgba(0,0,0,1);
+    background-image: url("https://www.gospelscout.com/img/dummy.jpg");
+    background-size: 100px 100px;
+    background-repeat:  no-repeat;
+    background-position:  center;
+    object-fit:cover; 
+    object-position:0,0;
+}

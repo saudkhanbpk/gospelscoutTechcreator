@@ -1,0 +1,38 @@
+.artistSearch {
+    background-image: url('find_artist2.svg'); /*url('search_icon.svg');*/
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-size: cover;
+    background-color: white;
+    min-width: 30px;
+    min-height: 30px;
+    border: none;
+}
+ul {
+    list-style: none;
+}
+#colorKey {
+    position: relative;
+    width: 80%;
+    margin: 0 auto 0;
+    text-align: center;
+}
+#calPalletteTitle {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-size: 17px;
+}
+.palColor {
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+}
+
+#colorKey li{
+    display: inline-block;
+    margin: 0 2px 0 2px;
+}

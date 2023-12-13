@@ -1,0 +1,28 @@
+[14-Jul-2021 22:38:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/church/index.php(4): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[16-Jul-2021 03:07:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/church/index.php(4): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[17-Jul-2021 07:46:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/church/index.php(4): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[18-Jul-2021 09:02:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/church/index.php(4): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38

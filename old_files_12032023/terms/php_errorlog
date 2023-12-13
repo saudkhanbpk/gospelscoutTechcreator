@@ -1,0 +1,21 @@
+[14-Jul-2021 09:00:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/terms/index.php(6): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[16-Jul-2021 08:46:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/terms/index.php(6): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[18-Jul-2021 10:00:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/terms/index.php(6): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38

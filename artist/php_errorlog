@@ -1,0 +1,254 @@
+[16-Jul-2021 02:41:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/home/include/header.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/artist/index.php(5): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[16-Jul-2021 17:08:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/home/include/header.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/artist/index.php(5): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[18-Jul-2021 09:43:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/home/include/header.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/artist/index.php(5): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[18-Jul-2021 21:53:36 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 3 passed in /home/customer/www/gospelscout.com/public_html/artist/index.php on line 41 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(41): pdoQuery('usermaster', Array, Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[19-Jul-2021 15:51:47 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 3 passed in /home/customer/www/gospelscout.com/public_html/artist/index.php on line 41 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(41): pdoQuery('usermaster', Array, Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[20-Jul-2021 11:54:36 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 3 passed in /home/customer/www/gospelscout.com/public_html/artist/index.php on line 41 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(41): pdoQuery('usermaster', Array, Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[20-Jul-2021 23:56:27 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 3 passed in /home/customer/www/gospelscout.com/public_html/artist/index.php on line 41 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(41): pdoQuery('usermaster', Array, Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[21-Jul-2021 16:45:13 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 3 passed in /home/customer/www/gospelscout.com/public_html/artist/index.php on line 41 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(41): pdoQuery('usermaster', Array, Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[22-Jul-2021 07:42:11 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 3 passed in /home/customer/www/gospelscout.com/public_html/artist/index.php on line 41 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(41): pdoQuery('usermaster', Array, Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[22-Jul-2021 18:28:38 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 3 passed in /home/customer/www/gospelscout.com/public_html/artist/index.php on line 41 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(41): pdoQuery('usermaster', Array, Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[22-Jul-2021 18:30:48 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 3 passed in /home/customer/www/gospelscout.com/public_html/artist/index.php on line 44 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(44): pdoQuery('usermaster', Array, Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[22-Jul-2021 19:40:27 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 3 passed in /home/customer/www/gospelscout.com/public_html/artist/index.php on line 44 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(44): pdoQuery('usermaster', Array, Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[22-Jul-2021 19:46:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:102
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(161): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 102
+[22-Jul-2021 19:52:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:102
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(161): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 102
+[22-Jul-2021 19:52:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:102
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(161): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 102
+[22-Jul-2021 20:05:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:102
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(157): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 102
+[22-Jul-2021 20:06:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:102
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(157): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 102
+[22-Jul-2021 20:06:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:102
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(157): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 102
+[22-Jul-2021 20:07:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:102
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(157): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 102
+[22-Jul-2021 20:08:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:102
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(157): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 102
+[22-Jul-2021 20:13:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:102
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(157): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 102
+[22-Jul-2021 20:14:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:102
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(152): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 102
+[22-Jul-2021 20:14:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:102
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(152): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 102
+[22-Jul-2021 20:16:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:102
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(152): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 102
+[22-Jul-2021 20:18:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:102
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(153): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 102
+[22-Jul-2021 20:18:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:102
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(152): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 102
+[22-Jul-2021 20:19:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:102
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(152): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 102
+[22-Jul-2021 20:20:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:102
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(152): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 102
+[22-Jul-2021 20:21:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:102
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(153): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 102
+[22-Jul-2021 20:22:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:102
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(153): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 102
+[22-Jul-2021 20:53:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:102
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(153): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 102
+[22-Jul-2021 20:54:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:102
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(153): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 102
+[22-Jul-2021 20:54:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:102
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(153): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 102
+[22-Jul-2021 20:54:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:102
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(153): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 102
+[22-Jul-2021 20:55:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:102
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(153): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 102
+[22-Jul-2021 20:55:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:102
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(153): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 102
+[22-Jul-2021 21:01:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:102
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(152): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 102
+[22-Jul-2021 21:03:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:102
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(152): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 102
+[22-Jul-2021 21:07:52 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in /home/customer/www/gospelscout.com/public_html/common/database.php on line 118
+[23-Jul-2021 01:43:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/customer/www/gospelscout.com/public_html/common/database.php:104
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(152): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 104
+[23-Jul-2021 01:44:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/customer/www/gospelscout.com/public_html/common/database.php:104
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(152): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 104
+[23-Jul-2021 01:44:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/customer/www/gospelscout.com/public_html/common/database.php:104
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(152): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 104
+[23-Jul-2021 01:45:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/customer/www/gospelscout.com/public_html/common/database.php:104
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(152): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 104
+[23-Jul-2021 01:47:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/customer/www/gospelscout.com/public_html/common/database.php:104
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/artist/index.php(184): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 104
+[23-Jul-2021 02:18:03 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/customer/www/gospelscout.com/public_html/common/database.php:41
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/home/include/header.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/artist/index.php(5): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 41
+[23-Jul-2021 02:19:51 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/customer/www/gospelscout.com/public_html/common/database.php:42
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/home/include/header.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/artist/index.php(5): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 42
+[23-Jul-2021 02:20:19 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/customer/www/gospelscout.com/public_html/common/database.php:43
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/home/include/header.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/artist/index.php(5): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 43
+[09-Aug-2021 14:06:04 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 310
+[09-Aug-2021 14:08:01 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 310
+[09-Aug-2021 14:08:23 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 310
+[27-Sep-2021 17:58:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:42
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/home/include/header.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/artist/index.php(5): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 42
+[19-Oct-2021 19:10:25 UTC] PHP Fatal error:  require(): Failed opening required '/home/customer/www/gospelscout.com/public_html/common/config.php?lk' (include_path='.:/usr/local/php74/pear') in /home/customer/www/gospelscout.com/public_html/home/include/header.php on line 2

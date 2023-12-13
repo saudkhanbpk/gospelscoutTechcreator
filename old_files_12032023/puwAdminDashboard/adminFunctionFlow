@@ -1,0 +1,59 @@
+
+
+Pop worship admin page flow
+
+1. Manage Events
+	a. List upcoming Events 
+		i. Edit Event
+		ii. Cancel Event 
+		iii. List applicants to the event
+			1. Select applicant to attend (functionality in addition to 1st-come-1st-serve auto selection functionality)
+
+	b. List Pending Events
+		1. Events still awaiting Host and/or artist confirmation
+
+
+	b. Create New Events 
+		i. Event form
+			1. Select Date 
+			2. Select Time
+			3. Select Location (state)
+
+
+			/* hosts that match the above criteria will be returned - if no criteria specified, all hosts are returned */
+			4. Input Host
+				a. Select "Find Host" 
+					1. Event Hosts(alreay vetted and confirmed) - Event Date/Time - Event Location
+						a. Request Host (Send email availability-to-host request and link to site confirmation page - host Status: pending) 
+						b. Wait for host availability-confirmation ( We receive response - host Status: pending ->(available or not-available) )
+						c. Confirm host for event (Send booking email to host)
+				b. Manually input host
+					1. Street address
+					2. State
+					3. zip code
+
+			5. Select "Find Artists"
+				3. Event Artists 
+					a. Request artist (sends email availability-to-perform request and link to site confirmation page - artist Status: pending)
+					b. Wait for artist availability-confirmation ( We receive response - artist Status: pending ->(available or not-available) )
+					c. Confirm Artist for event (Send booking email to artist)
+
+2. Manage Hosts
+	a. List Hosts
+		i. confirmed ( usable hosts )
+		ii. declined ( non-usable hosts )
+		iii. pending ( hosts not vetted yet )
+	b. Remove Hosts
+	c. Add Hosts 
+	d. confirm hosts
+	e. decline hosts 
+	f. upload hosts pictures ( add functionality to upload photos on the host application) 
+
+4. Manage Artists 
+	a. List Applicants
+		i. confirmed
+		ii. declined 
+		iii. pending
+		iv. have played 
+5. Manage Applicants 
+	a. List applicants

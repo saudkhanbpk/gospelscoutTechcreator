@@ -1,0 +1,25 @@
+[09-Oct-2021 16:57:44 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/include/get_str_dash.php on line 10 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:484
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/include/get_str_dash.php(10): pdoQuery('usermaster', 'all', Array, NULL, Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 484
+[08-Dec-2021 17:54:18 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/include/get_str_dash.php on line 10 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:500
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/include/get_str_dash.php(10): pdoQuery('usermaster', 'all', Array, NULL, Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 500
+[07-Jan-2022 17:49:53 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/include/get_str_dash.php on line 10 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:500
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/include/get_str_dash.php(10): pdoQuery('usermaster', 'all', Array, NULL, Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 500
+[07-Jan-2022 17:50:15 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/include/get_str_dash.php on line 10 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:500
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/include/get_str_dash.php(10): pdoQuery('usermaster', 'all', Array, NULL, Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 500
+[07-Jan-2022 17:56:58 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/include/get_str_dash.php on line 10 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:500
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/include/get_str_dash.php(10): pdoQuery('usermaster', 'all', Array, NULL, Array)
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 500

@@ -1,0 +1,18 @@
+[29-Mar-2023 19:00:27 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/puwAdminDashboard/dashboard/include/adminNav.php on line 41 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:500
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/puwAdminDashboard/dashboard/include/adminNav.php(41): pdoQuery(' puweventsmaste...', Array, NULL, 'date', Array)
+#1 /home/customer/www/gospelscout.com/public_html/puwAdminDashboard/dashboard/index.php(3): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 500
+[29-Mar-2023 19:08:14 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 5 passed in /home/customer/www/gospelscout.com/public_html/puwAdminDashboard/dashboard/include/adminNav.php on line 45 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:500
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/puwAdminDashboard/dashboard/include/adminNav.php(45): pdoQuery(' puweventsmaste...', Array, Array, 'date', Array)
+#1 /home/customer/www/gospelscout.com/public_html/puwAdminDashboard/dashboard/index.php(3): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 500
+[29-Mar-2023 19:11:06 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 2 passed in /home/customer/www/gospelscout.com/public_html/puwAdminDashboard/dashboard/include/adminNav.php on line 82 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:500
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/puwAdminDashboard/dashboard/include/adminNav.php(82): pdoQuery('puwattendeemast...', 'all')
+#1 /home/customer/www/gospelscout.com/public_html/puwAdminDashboard/dashboard/index.php(3): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 500

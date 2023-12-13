@@ -1,0 +1,6 @@
+@media (min-width: 992px) {
+  #mainNav {
+    border-color: transparent;
+    background-color: rgba(149,73,173,1); /* transparent */
+  }
+}

@@ -1,0 +1,239 @@
+.navbar-brand img {
+  max-height: 100%;
+}
+.navbar{
+  background-color: white !important;
+} 
+
+.rounded-btn {
+  border-radius: 20px; 
+  background-color:#9549AD ;
+  border: #9549AD;
+  margin-right: 10px;
+}
+
+.btn-outline {
+  border: 1px solid #9549Ad !important;
+  background: white;
+  color: #954dad;
+  padding: 8px;
+  margin-right: 10px;
+
+}
+
+.navbar-brand img {
+  width: 132px;
+  height: 30px;
+  /* background-color: #9549ad; */
+  margin-left: 30px;
+}
+
+img-fluid img-1{
+  position: relative;
+  padding: 0px;
+    margin-left: 134px;
+    margin-top: -378px;
+}
+img-fluid img-6{
+margin-right: 147px;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 0.5rem;
+  margin-right: 30px;
+  padding-left: 0.5rem;
+  margin-left: 30px;
+}
+/* Add this to your existing style.css file or create a new one */
+
+/* Footer styles */
+/* Footer styles */
+footer {
+  background: linear-gradient(90deg, #FCF2FF 0.07%, #FFF 99.07%);
+  border-radius: 27px;
+  color: #333;
+  padding: 30px 0; /* Top and bottom padding increased for better spacing */
+}
+
+/* ... (other styles remain the same) */
+
+
+/* Logo and text styling */
+.footer-logo {
+  max-width: 100px; /* Adjust the max-width as needed */
+  margin-bottom: 15px;
+}
+
+/* Navigation styles */
+ul.list-unstyled {
+  list-style: none;
+  padding: 0;
+}
+
+ul.list-unstyled li {
+  margin-bottom: 10px;
+}
+
+ul.list-unstyled a {
+  color: #333;
+  text-decoration: none;
+  /* font-weight: bold; */
+}
+
+ul.list-unstyled a:hover {
+  color: #9549AD;
+}
+.head-pur {
+  color: #9549AD;
+  /* font-weight: bold; */
+  font-weight: 900;
+  font-size: medium;
+}
+/* Contact details styles */
+.footer-contact {
+  margin-top: 20px;
+}
+
+.footer-contact h5 {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+/* Stay Connected styles */
+.social-icons {
+  margin-top: 20px;
+}
+
+.social-icons a {
+  color: #333;
+  margin-right: 15px;
+  font-size: 20px;
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 767px) {
+  .footer-logo {
+      max-width: 80px; /* Adjust for smaller screens */
+  }
+}
+/* Social Icons styling */
+.social-icons a {
+  color: #333;
+  margin-right: 15px;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.social-icons a:hover {
+  color: #9549AD;
+}
+
+/*tagline*/
+.tagline{text-transform: uppercase;
+color: #9549ad;
+font-weight: 600;
+font-family: "Poppins";
+}
+
+.img2{
+  height: 505px;
+  width: 536px;
+}
+
+.carddd{
+  position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid  rgba(255, 255, 255, 0.125) !important;
+    border-radius: 0.25rem;
+}
+.iconfv{
+  list-style-image: url('supportfiles/image/icon1.png');
+}
+
+.div-with-bg{
+  /* background: color url('supportfiles/image/image.png') others; */
+  background-image: url('supportfiles/image/image.png');
+  background-repeat: no-repeat;
+  background-position: center; 
+  position: relative;
+}
+.fw{
+  font-weight: 900!important;
+}
+
+/* For Desktop View */
+@media screen and (min-width: 1024px) {
+  .text-aligin-left-cu {
+    text-align: left;
+}
+.text-aligin-left-cu-p {
+    text-align: left;
+    margin-left: 68px;
+}
+}
+
+/* For Tablet View */
+@media screen and (min-device-width: 768px) 
+  and (max-device-width: 1024px) {
+    .text-aligin-left-cu {
+      text-align: left;
+  }
+  .text-aligin-left-cu-p {
+      text-align: left;
+      margin-left: 68px;
+  }
+}
+
+/* For Mobile Portrait View */
+@media screen and (max-device-width: 480px) 
+  and (orientation: portrait) {
+    .text-aligin-left-cu {
+      text-align: center;
+  }
+  .text-aligin-left-cu-p {
+      text-align: center;
+      margin-left: 68px;
+  }
+}
+
+/* For Mobile Landscape View */
+@media screen and (max-device-width: 640px) 
+  and (orientation: landscape) {
+  .gfg-div {
+      width: 400px;
+      height: 200px;
+      background-color: cyan;
+      color: black;
+  }
+}
+
+/* For Mobile Phones Portrait or Landscape View */
+@media screen
+  and (max-device-width: 640px) {
+    .text-aligin-left-cu {
+      text-align: center;
+  }
+  .text-aligin-left-cu-p {
+      text-align: center;
+      margin-left: 68px;
+  }
+}
+.txt-clr-wht{
+  color: #FFF;
+}
+.social-icons-fontsize{
+  font-size:36px;
+  color: #FFF;
+}
+.rounded-btn {
+  border-radius: 20px !important;
+  background-color: #9549AD !important;
+  border: #9549AD !important;
+  margin-right: 10px !important;
+  color: #FFF !important;
+}

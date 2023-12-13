@@ -1,0 +1,208 @@
+[14-Jul-2021 06:54:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/calendar/index.php(4): include_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[15-Jul-2021 03:07:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/calendar/index.php(4): include_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[15-Jul-2021 03:16:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/calendar/index.php(4): include_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[15-Jul-2021 04:19:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/calendar/index.php(4): include_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[15-Jul-2021 05:29:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/calendar/index.php(4): include_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[15-Jul-2021 09:15:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/calendar/index.php(4): include_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[15-Jul-2021 11:37:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/calendar/index.php(4): include_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[15-Jul-2021 13:32:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/calendar/index.php(4): include_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[15-Jul-2021 15:22:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/calendar/index.php(4): include_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[15-Jul-2021 16:16:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/calendar/index.php(4): include_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[16-Jul-2021 00:12:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/calendar/index.php(4): include_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[16-Jul-2021 02:53:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/calendar/index.php(4): include_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[17-Jul-2021 11:41:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/calendar/index.php(4): include_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[17-Jul-2021 12:17:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/calendar/index.php(4): include_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[17-Jul-2021 12:30:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/calendar/index.php(4): include_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[17-Jul-2021 16:21:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/calendar/index.php(4): include_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[17-Jul-2021 17:26:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/calendar/index.php(4): include_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[17-Jul-2021 19:55:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/calendar/index.php(4): include_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[18-Jul-2021 01:22:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/calendar/index.php(4): include_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[18-Jul-2021 08:49:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/calendar/index.php(4): include_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[18-Jul-2021 18:09:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/calendar/index.php(4): include_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[18-Jul-2021 18:19:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/calendar/index.php(4): include_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[18-Jul-2021 18:24:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/gospelscout.com/public_html/common/database.php:38
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/common/config.php(13): Database->__construct()
+#1 /home/customer/www/gospelscout.com/public_html/include/headerNew.php(6): require('/home/customer/...')
+#2 /home/customer/www/gospelscout.com/public_html/calendar/index.php(4): include_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 38
+[09-Aug-2021 14:03:49 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 310
+[24-Aug-2021 07:39:50 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 320
+[10-Sep-2021 05:08:40 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 320
+[25-Sep-2021 17:26:41 UTC] PHP Fatal error:  Call to a member function query() on null in /home/customer/www/gospelscout.com/public_html/common/database.php on line 320
+[28-Sep-2021 22:15:34 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Database::fetchRow(), 2 passed in /home/customer/www/gospelscout.com/public_html/calendar/index.php on line 12 and exactly 3 expected in /home/customer/www/gospelscout.com/public_html/common/database.php:305
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/calendar/index.php(12): Database->fetchRow('usermaster', 'iLoginID = 257')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 305
+[10-Oct-2021 17:56:04 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Database::fetchRow(), 2 passed in /home/customer/www/gospelscout.com/public_html/calendar/index.php on line 12 and exactly 3 expected in /home/customer/www/gospelscout.com/public_html/common/database.php:320
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/calendar/index.php(12): Database->fetchRow('usermaster', 'iLoginID = 258')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 320
+[14-Dec-2021 17:36:35 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Database::fetchRow(), 2 passed in /home/customer/www/gospelscout.com/public_html/calendar/index.php on line 12 and exactly 3 expected in /home/customer/www/gospelscout.com/public_html/common/database.php:320
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/calendar/index.php(12): Database->fetchRow('usermaster', 'iLoginID = 258')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 320
+[14-Dec-2021 19:31:37 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Database::fetchRow(), 2 passed in /home/customer/www/gospelscout.com/public_html/calendar/index.php on line 12 and exactly 3 expected in /home/customer/www/gospelscout.com/public_html/common/database.php:320
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/calendar/index.php(12): Database->fetchRow('usermaster', 'iLoginID = 258')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 320
+[14-Dec-2021 19:33:50 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Database::fetchRow(), 2 passed in /home/customer/www/gospelscout.com/public_html/calendar/index.php on line 12 and exactly 3 expected in /home/customer/www/gospelscout.com/public_html/common/database.php:320
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/calendar/index.php(12): Database->fetchRow('usermaster', 'iLoginID = 258')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 320
+[14-Dec-2021 19:36:01 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 3 passed in /home/customer/www/gospelscout.com/public_html/calendar/phpBackend/goog_cal_funct.php on line 44 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:500
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/calendar/phpBackend/goog_cal_funct.php(44): pdoQuery('googlecalendarm...', 'all', Array)
+#1 /home/customer/www/gospelscout.com/public_html/calendar/index.php(20): getClient('258')
+#2 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 500
+[14-Dec-2021 19:37:04 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 3 passed in /home/customer/www/gospelscout.com/public_html/calendar/phpBackend/goog_cal_funct.php on line 44 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:500
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/calendar/phpBackend/goog_cal_funct.php(44): pdoQuery('googlecalendarm...', 'all', Array)
+#1 /home/customer/www/gospelscout.com/public_html/calendar/index.php(23): getClient('258')
+#2 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 500
+[14-Dec-2021 19:37:06 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pdoQuery(), 3 passed in /home/customer/www/gospelscout.com/public_html/calendar/phpBackend/goog_cal_funct.php on line 44 and exactly 9 expected in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:500
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/calendar/phpBackend/goog_cal_funct.php(44): pdoQuery('googlecalendarm...', 'all', Array)
+#1 /home/customer/www/gospelscout.com/public_html/calendar/index.php(23): getClient('258')
+#2 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 500

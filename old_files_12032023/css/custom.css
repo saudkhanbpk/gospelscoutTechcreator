@@ -1,0 +1,231 @@
+/* Sign up 2 landing page */
+  #signUp2 {
+    /* display: none; */
+  }
+#slide1Landing {
+	background-image: url("../img/tatted_singer_web.jpg"); /* The image used */
+	/* object-fit:cover; object-position:0,0; */
+	background-position: center; /* Center the image */
+	background-repeat: no-repeat; /* Do not repeat the image */
+	background-size: cover; /* Resize the background image to cover the entire container */
+	/* min-height: 100%; */
+}
+#slide2Landing {
+	background-image: url("../img/onKeys4_web_v1.jpg"); /* The image used */
+	background-position: center; /* Center the image */
+	background-repeat: no-repeat; /* Do not repeat the image */
+	background-size: cover; /* Resize the background image to cover the entire container */
+}
+#slide3Landing {
+	background-image: url("../img/dreds_on_guitar_web_v2.jpg"); /* The image used */
+	background-position: center; /* Center the image */
+	background-repeat: no-repeat; /* Do not repeat the image */
+	background-size: cover; /* Resize the background image to cover the entire container */
+}
+#slide4Landing {
+	background-image: url("../img/showcaseFlyer2.jpg");
+	background-position: center; 
+	background-repeat: no-repeat;
+	background-size: cover; 
+}
+.carousel-text {
+	position:absolute; 
+	bottom:100px;
+	left: 7.5%;
+	width: 85%;
+}
+.carousel-btn {
+	position:absolute; 
+	bottom:50px;
+	left: 7.5%;
+	width: 85%;
+}
+#feature-carousel {
+	/* display: block;
+	margin: 0; */
+	padding: 0;
+	width:100%;
+	/* height: 100%;
+	top:50px; */
+  }
+		
+
+.text-gs {
+	color: rgba(149,73,173,1);
+}
+.bg-gs {
+	background-color: rgba(149,73,173,1);
+}
+.btn-gs {
+	background-color: rgba(149,73,173,1);
+	color: #fff;
+}
+.btn-gs-border-radius {
+	border-radius: 5px;
+}
+.btn-cancel {
+	background-color: rgba(232,232,232,1);
+	border: 1px solid rgba(149,73,173,1);
+}
+.table-font-size {
+	font-size: 12px; 
+}
+.card-text-size-gs {
+	font-size: 12px; 
+}
+.card-shadow{
+	box-shadow: -1px 2px 10px 0px rgba(0,0,0,1);
+}
+.a-prof-shadow{
+	box-shadow: -1px 2px 7px -2px rgba(0,0,0,1);
+}
+.contentMenu {
+  font-size: 1rem;
+}
+.profCards-text-color {
+	color: rgba(188,141, 195,1);
+}  
+.bookMe-subtitle {
+	font-size: 18px; 
+}
+a {
+	text-decoration: none;
+}
+.valid-form-check label {
+	margin: 0;
+}
+.signup-steps {
+	min-height:350px;
+	box-shadow: -1px 2px 10px 0px rgba(0,0,0,1);
+}
+.bg-bg2 {
+	background-color: rgb(233,234,237);
+}
+#sendConfEmail {
+	font-size: 20px;
+}
+
+/********************** Artist Profile *****************************/
+	.aProfPic-container {
+		width:250px; 
+		height:250px; 
+		margin: auto;
+		background-color: rgba(149,73,173,.7);
+		box-shadow: -1px 2px 10px 0px rgba(0,0,0,1);
+	}
+	.aProfPic {
+		object-fit:cover; 
+		object-position:0,0;
+		border:1px solid rgba(149,73,173,1);
+	}
+	.profPic-bg {
+		background-image: url(img/BusinessCardCollage2.png);
+		background-size: cover; 
+		margin-bottom: 20px;
+	}
+	.smokeScreen {
+			background-color: rgba(0,0,0,.5);
+	}
+	.m-prof-sect {
+		margin: auto;
+	}
+	.artist-vid-img {
+		//width:75px;
+		//height:100px;
+	}
+	@media only screen and (min-width: 576px) {
+		#carousel-container {
+			border-radius:15px; 
+			border: solid 1px rgba(149,73,173,1);
+			background-image: linear-gradient(rgba(255,255,255,.3), rgba(255,255,255,.6));
+			max-width: 550px;
+		  }
+	}
+	@media only screen and (min-width: 768px) {
+		.viewAll-vid {
+			min-height: 600px;
+			max-width: 900px;
+		}
+
+    
+	}
+	@media only screen and (min-width: 992px) {
+     /* Sign up 2 landing page */
+      #signUp2 {
+        display: block;
+        width:40%;
+        position:absolute;
+        top:150px;
+        right:75px;
+      }
+      #feature-carousel {
+		display: block;
+		width:40%;
+		height: 75%;
+		position:absolute;
+		top:150px;
+		left:150px;
+		}
+	#carousel-container {
+		height: 100%;
+	}
+		.aProfPic-container {
+			position: absolute;
+			width:250px; 
+			height:250px; 
+			padding: 0px;
+			bottom:-10px;
+			left: 0px; 
+			box-shadow: -1px 2px 10px 0px rgba(0,0,0,1);
+		}
+		.profPic-bg {
+			background-image: none; 
+			background-color: transparent; 
+		}
+		.smokeScreen {
+			background-color: transparent;
+		}
+		.m-prof-sect {
+			margin: 0;
+		}
+		.artist-vid-img {
+			/*width:100px;*/
+			/*height:100px;*/
+		}
+
+    
+	}
+	@media only screen and (min-width: 1200px) {
+    /* Sign up 2 landing page */
+      #signUp2 {
+        display: block;
+        width:30%;
+        position:absolute;
+        top:150px;
+        right:250px;
+      }
+		
+	}
+/********************** END - Artist Profile Pic *****************************/
+
+.a-Prof{
+  font-size: .7rem; 
+}
+.afterVidReport {
+	text-align: center; 
+	padding: 20px 0 20px 0;
+	width: 80%;
+	margin: 20px auto 20px auto;
+	border-radius: 10px; 
+	background-color: rgba(211,237,220,1); 
+	color: rgba(13,87,43,1);
+}
+
+.displayImg{
+	object-fit:cover; 
+	object-position:0,0;
+}
+
+#privPageDiv h4 {
+	font-weight: 700;
+}

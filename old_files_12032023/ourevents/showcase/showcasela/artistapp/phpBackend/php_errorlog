@@ -1,0 +1,5 @@
+[26-Jun-2023 19:12:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:594
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/ourevents/showcase/showcasela/artistapp/phpBackend/connectToDb.php(47): Database->insert(Array, Array, 'artistshowcasem...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 594

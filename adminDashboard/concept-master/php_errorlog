@@ -1,0 +1,76 @@
+[12-Oct-2021 23:19:51 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Database::fetchRowAll(), 2 passed in /home/customer/www/gospelscout.com/public_html/adminDashboard/concept-master/include/adminNav.php on line 107 and exactly 3 expected in /home/customer/www/gospelscout.com/public_html/common/database.php:100
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/adminDashboard/concept-master/include/adminNav.php(107): Database->fetchRowAll('contact_us', 'viewed = 0')
+#1 /home/customer/www/gospelscout.com/public_html/adminDashboard/concept-master/index.php(3): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 100
+[12-Oct-2021 23:20:32 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Database::fetchRowAll(), 2 passed in /home/customer/www/gospelscout.com/public_html/adminDashboard/concept-master/include/adminNav.php on line 113 and exactly 3 expected in /home/customer/www/gospelscout.com/public_html/common/database.php:100
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/adminDashboard/concept-master/include/adminNav.php(113): Database->fetchRowAll('contact_us', 'adminID = 299')
+#1 /home/customer/www/gospelscout.com/public_html/adminDashboard/concept-master/index.php(3): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 100
+[01-Nov-2021 02:33:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/customer/www/gospelscout.com/public_html/common/database.php:616
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/adminDashboard/concept-master/adminDeact-acct.php(42): Database->update(Array, Array, 'iLoginID = 347', 'loginmaster')
+#1 /home/customer/www/gospelscout.com/public_html/adminDashboard/concept-master/adminDeact-acct.php(91): loginmasterInsert('347', Object(Database), 0)
+#2 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 616
+[01-Nov-2021 02:36:22 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Database::fetchRow(), 2 passed in /home/customer/www/gospelscout.com/public_html/adminDashboard/concept-master/adminedit-user-profile.php on line 23 and exactly 3 expected in /home/customer/www/gospelscout.com/public_html/common/database.php:320
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/adminDashboard/concept-master/adminedit-user-profile.php(23): Database->fetchRow('usermaster', 'iLoginID = 347')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 320
+[01-Nov-2021 14:39:06 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Database::fetchRow(), 2 passed in /home/customer/www/gospelscout.com/public_html/adminDashboard/concept-master/adminedit-user-profile.php on line 23 and exactly 3 expected in /home/customer/www/gospelscout.com/public_html/common/database.php:320
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/adminDashboard/concept-master/adminedit-user-profile.php(23): Database->fetchRow('usermaster', 'iLoginID = 347')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 320
+[30-Jan-2022 18:09:42 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Database::fetchRowAll(), 2 passed in /home/customer/www/gospelscout.com/public_html/adminDashboard/concept-master/adminCreateProfile.php on line 370 and exactly 3 expected in /home/customer/www/gospelscout.com/public_html/common/database.php:100
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/adminDashboard/concept-master/adminCreateProfile.php(370): Database->fetchRowAll('states', 'country_id = 23...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 100
+[30-Jan-2022 18:14:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/customer/www/gospelscout.com/public_html/common/database.php:616
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/adminDashboard/concept-master/adminDeact-acct.php(42): Database->update(Array, Array, 'iLoginID = 347', 'loginmaster')
+#1 /home/customer/www/gospelscout.com/public_html/adminDashboard/concept-master/adminDeact-acct.php(91): loginmasterInsert('347', Object(Database), 0)
+#2 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 616
+[30-Jan-2022 18:17:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/customer/www/gospelscout.com/public_html/common/database.php:616
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/adminDashboard/concept-master/adminDeact-acct.php(42): Database->update(Array, Array, 'iLoginID = 347', 'loginmaster')
+#1 /home/customer/www/gospelscout.com/public_html/adminDashboard/concept-master/adminDeact-acct.php(91): loginmasterInsert('347', Object(Database), 0)
+#2 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 616
+[30-Jan-2022 18:23:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php:32
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/adminDashboard/concept-master/adminDeact-acct.php(44): updateTable(NULL, Array, 'iLoginID = 347', 'loginmaster')
+#1 /home/customer/www/gospelscout.com/public_html/adminDashboard/concept-master/adminDeact-acct.php(94): loginmasterInsert('347', Object(Database), 0)
+#2 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/include/gsFunctPage.php on line 32
+[30-Jan-2022 18:25:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:594
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/adminDashboard/concept-master/adminDeact-acct.php(103): Database->insert(Array, Array, 'deactivationmas...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 594
+[30-Jan-2022 18:28:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/customer/www/gospelscout.com/public_html/common/database.php:616
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/adminDashboard/concept-master/adminDeact-acct.php(87): Database->update(Array, Array, 'iLoginID = 347 ...', 'deactivationmas...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 616
+[30-Jan-2022 18:46:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/customer/www/gospelscout.com/public_html/common/database.php:616
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/adminDashboard/concept-master/adminDeact-acct.php(87): Database->update(Array, Array, 'iLoginID = 347 ...', 'deactivationmas...')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 616
+[30-Jan-2022 19:51:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:594
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/adminDashboard/concept-master/adminCreateProfileSubmit.php(65): Database->insert(Array, Array, 'loginmaster')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 594
+[30-Jan-2022 19:53:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/gospelscout.com/public_html/common/database.php:594
+Stack trace:
+#0 /home/customer/www/gospelscout.com/public_html/adminDashboard/concept-master/adminCreateProfileSubmit.php(85): Database->insert(Array, Array, 'usermaster')
+#1 {main}
+  thrown in /home/customer/www/gospelscout.com/public_html/common/database.php on line 594
